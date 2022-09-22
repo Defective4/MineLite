@@ -82,7 +82,7 @@ mvn clean install
 in the minelite directory.
 
 ## TODO
-[ ] - Server List Ping icon and players sample support <br>
-[ ] - Messages click and hover events, and color + formatting support <br>
-[ ] - More Minecraft versions (priorities: 1.12.2, 1.16.5, 1.8) <br>
-[ ] - More packets (inventory, world, movement) <br>
+- [ ] - Server List Ping icon and players sample support <br>
+- [ ] - Messages click and hover events, and color + formatting support <br>
+- [ ] - More Minecraft versions (priorities: 1.12.2, 1.16.5, 1.8) <br>
+- [ ] - More packets (inventory, world, movement) <br>
