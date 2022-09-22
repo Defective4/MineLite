@@ -1,23 +1,39 @@
-<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 https://maven.apache.org/xsd/maven-4.0.0.xsd">
-  <modelVersion>4.0.0</modelVersion>
-  <parent>
-    <groupId>io.github.defective4</groupId>
-    <artifactId>minelite</artifactId>
-    <version>0.9</version>
-  </parent>
-  <artifactId>minelite-core</artifactId>
-  <name>MineLite Core</name>
-  <dependencies>
-  	<dependency>
-  		<groupId>com.google.code.gson</groupId>
-  		<artifactId>gson</artifactId>
-  		<version>2.3.1</version>
-  	</dependency>
-  </dependencies>
-  <url>https://github.com/Defective4/MineLite</url>
-  <description>Contains core functionality of MineLite</description>
-  <organization>
-  	<name>Defective4</name>
-  	<url>https://github.com/Defective4/MineLite</url>
-  </organization>
+<project xmlns="http://maven.apache.org/POM/4.0.0"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 https://maven.apache.org/xsd/maven-4.0.0.xsd">
+	<modelVersion>4.0.0</modelVersion>
+	<parent>
+		<groupId>io.github.defective4</groupId>
+		<artifactId>minelite</artifactId>
+		<version>0.9</version>
+	</parent>
+	<artifactId>minelite-core</artifactId>
+	<name>MineLite Core</name>
+	<dependencies>
+		<dependency>
+			<groupId>com.google.code.gson</groupId>
+			<artifactId>gson</artifactId>
+			<version>2.3.1</version>
+		</dependency>
+	</dependencies>
+	<url>https://github.com/Defective4/MineLite</url>
+	<description>Contains core functionality of MineLite</description>
+	<licenses>
+		<license>
+			<name>MIT License</name>
+		</license>
+	</licenses>
+
+	<developers>
+		<developer>
+			<name>Defective4</name>
+			<email>def3ctive4@gmail.com</email>
+		</developer>
+	</developers>
+
+	<scm>
+		<connection>scm:git:git://github.com/Defective4/MineLite.git</connection>
+		<developerConnection>scm:git:ssh://github.com/Defective4/MineLite.git</developerConnection>
+		<url>https://github.com/Defective4/MineLite/tree/master</url>
+	</scm>
 </project>

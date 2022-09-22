@@ -64,8 +64,23 @@
 		<maven.compiler.target>1.8</maven.compiler.target>
 	</properties>
 	<url>https://github.com/Defective4/MineLite</url>
-	<organization>
-		<url>https://github.com/Defective4</url>
-		<name>Defective4</name>
-	</organization>
+	<licenses>
+		<license>
+			<name>MIT License</name>
+		</license>
+	</licenses>
+
+	<developers>
+		<developer>
+			<name>Defective4</name>
+			<email>def3ctive4@gmail.com</email>
+		</developer>
+	</developers>
+
+	<scm>
+		<connection>scm:git:git://github.com/Defective4/MineLite.git</connection>
+		<developerConnection>scm:git:ssh://github.com/Defective4/MineLite.git</developerConnection>
+		<url>https://github.com/Defective4/MineLite/tree/master</url>
+	</scm>
+
 </project>
