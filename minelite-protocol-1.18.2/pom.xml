@@ -14,4 +14,11 @@
   		<version>0.9</version>
   	</dependency>
   </dependencies>
+  <url>https://github.com/Defective4/MineLite</url>
+  <description>Contains MineLite protocol implementation for Minecraft 1.18.2.
+It is to be used with MineLite Core.</description>
+  <organization>
+  	<name>Defective4</name>
+  	<url>https://github.com/Defective4</url>
+  </organization>
 </project>
