@@ -7,12 +7,18 @@ With it you can build simple Minecraft chat bots or get status of a server.
 - Minecraft Client - create custom Minecraft bots with (almost) full chat support, many pre-implemented packets (and many more to come), with minimum effort!
 
 ## Using in your project
-You can download bineries under [releases](https://github.com/Defective4/MineLite/releases/).
-- **minelite-core-x.x.jar** - Contains core functionality of the library.
-- **minelite-protocol-y.y.y-x.x.jar** (y.y.y is the Minecraft version you want to use) - contains protocol implementation. Required if you want to create an application to join a server.
-After download you can include it in your project's classpath.
+### Maven
+```xml
+<dependency>
+  <groupId>io.github.defective4</groupId>
+  <artifactId>minelite-protocol-(your Minecraft version)</artifactId>
+  <version>0.9</version>
+</dependency>
+```
 
-*Maven coming soon*
+
+## Currently supported versions
+- 1.18.2
 
 ## Examples
 ### Server List Ping
