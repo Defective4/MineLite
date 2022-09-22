@@ -29,6 +29,8 @@ With it you can build simple Minecraft chat bots or get status of a server.
  }
 ```
 
+Alternatively you can download jar files and javadoc from [Releases](https://github.com/Defective4/MineLite/releases) page.
+Note that you will need both minelite-core-x.x.jar and minelite-protocol-(Minecraft version)-x.x.jar to create a custom client.
 
 ## Currently supported versions
 - 1.18.2
