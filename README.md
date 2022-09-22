@@ -16,6 +16,19 @@ With it you can build simple Minecraft chat bots or get status of a server.
 </dependency>
 ```
 
+### Gradle
+```
+ repositories {
+ 	maven {
+ 		url "https://s01.oss.sonatype.org/content/repositories/releases"
+ 	}
+ }
+ 
+ dependencies {
+ 	implementation "io.github.defective4:minelite-protocol-(your Minecraft version):0.9"
+ }
+```
+
 
 ## Currently supported versions
 - 1.18.2
