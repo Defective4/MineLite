@@ -3,7 +3,7 @@
   <parent>
     <groupId>net.defekt.code</groupId>
     <artifactId>minelite</artifactId>
-    <version>1.0</version>
+    <version>0.9</version>
   </parent>
   <artifactId>minelite-core</artifactId>
   <name>MineLite Core</name>
