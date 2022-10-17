@@ -85,6 +85,7 @@
 	<modules>
 		<module>minelite-protocol-1.18.2</module>
 		<module>minelite-core</module>
+		<module>minelite-protocol-1.12.2</module>
 	</modules>
 	<properties>
 		<maven.compiler.source>1.8</maven.compiler.source>
