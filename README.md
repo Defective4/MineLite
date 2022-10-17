@@ -34,6 +34,7 @@ Note that you will need both minelite-core-x.x.jar and minelite-protocol-(Minecr
 
 ## Currently supported versions
 - 1.18.2
+- 1.12.2
 
 ## Examples
 ### Server List Ping
