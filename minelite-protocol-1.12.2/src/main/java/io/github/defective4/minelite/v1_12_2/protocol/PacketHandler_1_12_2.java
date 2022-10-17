@@ -31,7 +31,7 @@ import io.github.defective4.minelite.v1_12_2.protocol.packets.serverbound.play.C
 import io.github.defective4.minelite.v1_12_2.protocol.packets.serverbound.play.ClientTeleportConfirmPacket;
 
 /**
- * An implementation of {@link PacketHandler} for version 1.18.2
+ * An implementation of {@link PacketHandler} for version 1.12.2
  * 
  * @author Defective4
  *

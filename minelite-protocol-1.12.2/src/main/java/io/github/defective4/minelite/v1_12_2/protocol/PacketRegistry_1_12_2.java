@@ -22,7 +22,7 @@ import io.github.defective4.minelite.v1_12_2.protocol.packets.clientbound.play.S
 import io.github.defective4.minelite.v1_12_2.protocol.packets.clientbound.play.ServerUpdateHealthPacket;
 
 /**
- * An implementation of {@link PacketRegistry} for version 1.18.2
+ * An implementation of {@link PacketRegistry} for version 1.12.2
  * 
  * @author Defective4
  *

@@ -9,7 +9,7 @@ import io.github.defective4.minelite.core.protocol.abstr.ProtocolProvider;
 import io.github.defective4.minelite.v1_12_2.protocol.packets.serverbound.play.ClientChatMessagePacket;
 
 /**
- * An implementation of {@link ProtocolProvider} for version 1.18.2
+ * An implementation of {@link ProtocolProvider} for version 1.12.2
  * 
  * @author Defective4
  *
